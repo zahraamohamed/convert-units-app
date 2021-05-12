@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">unit_converter</string>
+    <string name="unit_converter">unit converter</string>
+    <string name="temperture">temperture</string>
+    <string name="convert_celsius_to_fahrenheit">convert celsius to fahrenheit</string>
+    <string name="convert_bit_to_byte">convert bit to byte</string>
+    <string name="data">data</string>
+    <string name="bits">bits</string>
+    <string name="convert">Convert</string>
+    <string name="reset">reset</string>
+    <string name="reset">reset</string>
+    <string name="convert">Convert</string>
+    <string name="celsius">celsius</string>
+    <string name="re_set">re.set</string>
+    <string name="convert">Convert</string>
+    <string name="inches">Inches</string>
+    <string name="convert_inches_to_meters">convert inches to Meters</string>
+    <string name="area">Area</string>
 </resources>

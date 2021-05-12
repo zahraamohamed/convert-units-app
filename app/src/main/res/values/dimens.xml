@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large">32dp</dimen>
+    <dimen name="m_large">100dp</dimen>
+    <dimen name="normalMargin">24dp</dimen>
+    <dimen name="txt_size">24sp</dimen>
+    <dimen name="margin50">50dp</dimen>
+    <dimen name="txt_title">36sp</dimen>
+    <dimen name="margin1x">8dp</dimen>
+</resources>
