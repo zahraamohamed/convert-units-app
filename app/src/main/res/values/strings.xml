@@ -7,13 +7,11 @@
     <string name="data">data</string>
     <string name="bits">bits</string>
     <string name="convert">Convert</string>
-    <string name="reset">reset</string>
-    <string name="reset">reset</string>
-    <string name="convert">Convert</string>
     <string name="celsius">celsius</string>
     <string name="re_set">re.set</string>
-    <string name="convert">Convert</string>
+
     <string name="inches">Inches</string>
     <string name="convert_inches_to_meters">convert inches to Meters</string>
     <string name="area">Area</string>
+    <string name="reset">reset</string>
 </resources>

@@ -11,7 +11,9 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
-
+        onCall()
+    }
+    private fun onCall(){
         tempOpen()
         dataOpen()
         areaOpen()
